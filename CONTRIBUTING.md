@@ -6,7 +6,7 @@ that benefit the community at large, not just code contributions:
 
 * Providing user feedback
 * Share your use cases
-* Evangeline or collaborate with related products and technologies
+* Evangelize or collaborate with related products and technologies
 * Maintaining our wiki
 * Improving documentation
 * Contribute test scenarios and test code
